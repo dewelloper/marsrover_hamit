@@ -1,0 +1,12 @@
+C:\tests\marsroverhamit\SpaceLibrary\bin\Debug\net5.0\SpaceLibrary.deps.json
+C:\tests\marsroverhamit\SpaceLibrary\bin\Debug\net5.0\SpaceLibrary.dll
+C:\tests\marsroverhamit\SpaceLibrary\bin\Debug\net5.0\ref\SpaceLibrary.dll
+C:\tests\marsroverhamit\SpaceLibrary\bin\Debug\net5.0\SpaceLibrary.pdb
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.AssemblyInfoInputs.cache
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.AssemblyInfo.cs
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.csproj.CoreCompileInputs.cache
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.dll
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\ref\SpaceLibrary.dll
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.pdb
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.csprojAssemblyReference.cache

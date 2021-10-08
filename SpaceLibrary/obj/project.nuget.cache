@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyBNW8m8CPnymoZss1rnSl0xCeAVAe7NYkuYXP4Uwe11vr/ium3mK1JpSPPdHFlmA1UoV4xkpXwZCqF+RK2YCg==",
+  "success": true,
+  "projectFilePath": "C:\\tests\\marsroverhamit\\SpaceLibrary\\SpaceLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamit.yildirim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hamit.yildirim\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hamit.yildirim\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hamit.yildirim\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
