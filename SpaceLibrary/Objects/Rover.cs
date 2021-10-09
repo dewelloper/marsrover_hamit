@@ -5,25 +5,20 @@ using System;
 
 namespace SpaceLibrary.Objects
 {
-    public class Rover: IMover
+    public sealed class Rover: IMover
     {
 
-        IMover _mover;
-        ICompass _compass;
-        Position _currentPosition;
+        private IMover _mover;
+        private ICompass _compass;
+        private Position _currentPosition;
+        private static readonly Lazy<Rover> lazy = new Lazy<Rover>(() =>  new Rover() );
 
-        public Rover(ICompass compass, IMover mover)
-        {
-            _mover = mover;
-            _compass = compass;
-        }
+        public static Rover Instance { get { return lazy.Value; } }
 
-        public Rover(int maxX, int maxY)
+        private Rover()
         {
             _mover = new Mover();
             _compass = new Compass();
-            Grid.MaxXBound = maxX;
-            Grid.MaxYBound = maxY;
         }
 
         public string Run(string input1, string input2) //"1 2 N", "LMLMLMLMM" -> 1 3 N
