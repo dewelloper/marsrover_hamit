@@ -9,3 +9,4 @@ C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.csproj.CoreCo
 C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.dll
 C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\ref\SpaceLibrary.dll
 C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.pdb
+C:\tests\marsroverhamit\SpaceLibrary\obj\Debug\net5.0\SpaceLibrary.csprojAssemblyReference.cache
